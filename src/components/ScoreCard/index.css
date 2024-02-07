@@ -1,0 +1,29 @@
+.match-game-bg {
+  height: auto;
+  width: 100vw;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.score-card {
+  height: 600px;
+  width: 600px;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.score-card-Your-score-text {
+  font-size: 40px;
+  color: white;
+  font-weight: bold;
+}
+.score {
+  font-size: 40px;
+  color: white;
+  font-weight: bold;
+}

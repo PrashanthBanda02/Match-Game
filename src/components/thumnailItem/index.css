@@ -1,0 +1,15 @@
+.thumbnailItem {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  border: none;
+}
+.thumbnail-img {
+  height: 100px;
+  width: 100px;
+}
+
+.thumbnails-container {
+  display: flex;
+  flex-wrap: wrap;
+}
